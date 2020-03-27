@@ -8,32 +8,32 @@ target 'Insocio' do
   # Pods for Insocio
 
 # Ui
-#pod 'Pulsator'
-#pod 'SRCountdownTimer'
-#pod 'FaceCropImageView'
-#pod 'NVActivityIndicatorView'
-#pod 'ARCL'
-#pod 'Presentr'
-#pod 'ZLSwipeableViewSwift'
-#pod 'ChameleonFramework/Swift', :git => 'https://github.com/ViccAlexander/Chameleon.git'
-#
-## Networking
-#pod 'ReachabilitySwift'
-#pod 'AlamofireImage'
-#pod 'Alamofire'
-#pod 'SDWebImage' 
-#
-## Utils
-#pod 'DLLocalNotifications'
-#pod 'ObjectMapper'
-#pod 'IQKeyboardManagerSwift'
-#pod 'Freedom'
-#
-## Video
-#pod 'MobilePlayer'
-#
-## Location
-#pod 'SwiftLocation', '~> 4.0'
+pod 'Pulsator'
+pod 'SRCountdownTimer'
+pod 'FaceCropImageView'
+pod 'NVActivityIndicatorView'
+pod 'ARCL'
+pod 'Presentr'
+pod 'ZLSwipeableViewSwift'
+pod 'ChameleonFramework/Swift', :git => 'https://github.com/ViccAlexander/Chameleon.git'
+
+# Networking
+pod 'ReachabilitySwift'
+pod 'AlamofireImage'
+pod 'Alamofire'
+pod 'SDWebImage' 
+
+# Utils
+pod 'DLLocalNotifications'
+pod 'ObjectMapper'
+pod 'IQKeyboardManagerSwift'
+pod 'Freedom'
+
+# Video
+pod 'MobilePlayer'
+
+# Location
+pod 'SwiftLocation', '~> 4.0'
 
 # In-app Purchase
 #pod 'GLInAppPurchase'

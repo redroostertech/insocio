@@ -1,3 +1,105 @@
-PODFILE CHECKSUM: 1d87a24eba5d3e8c81f40977d350e7ed85131921
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - ARCL (1.3.0)
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - DLLocalNotifications (0.08)
+  - FaceCropImageView (1.1.1):
+    - Kingfisher
+  - Freedom (2.4.0)
+  - IQKeyboardManagerSwift (6.5.5)
+  - Kingfisher (5.13.0):
+    - Kingfisher/Core (= 5.13.0)
+  - Kingfisher/Core (5.13.0)
+  - MobilePlayer (1.3.0)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - ObjectMapper (3.5.1)
+  - Presentr (1.9)
+  - Pulsator (0.6.0)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - SRCountdownTimer (1.1)
+  - SwiftLocation (4.2.0)
+  - ZLSwipeableViewSwift (0.0.9)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - ARCL
+  - ChameleonFramework/Swift (from `https://github.com/ViccAlexander/Chameleon.git`)
+  - DLLocalNotifications
+  - FaceCropImageView
+  - Freedom
+  - IQKeyboardManagerSwift
+  - MobilePlayer
+  - NVActivityIndicatorView
+  - ObjectMapper
+  - Presentr
+  - Pulsator
+  - ReachabilitySwift
+  - SDWebImage
+  - SRCountdownTimer
+  - SwiftLocation (~> 4.0)
+  - ZLSwipeableViewSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - ARCL
+    - DLLocalNotifications
+    - FaceCropImageView
+    - Freedom
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - MobilePlayer
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - Presentr
+    - Pulsator
+    - ReachabilitySwift
+    - SDWebImage
+    - SRCountdownTimer
+    - SwiftLocation
+    - ZLSwipeableViewSwift
+
+EXTERNAL SOURCES:
+  ChameleonFramework:
+    :git: https://github.com/ViccAlexander/Chameleon.git
+
+CHECKOUT OPTIONS:
+  ChameleonFramework:
+    :commit: 6dd284bde21ea2e7f9fd89bc36f40df16e16369d
+    :git: https://github.com/ViccAlexander/Chameleon.git
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  ARCL: db48b6927d6f3f49f29568295ed91c94ab8d4aab
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  DLLocalNotifications: 92ee357278e90b0f2b2da1bb0e5a7e7fb179354e
+  FaceCropImageView: 7cc3f84bfcd370446f1fd053903a1376c08c60ee
+  Freedom: f51cd6a5fc0643af1b0480d98ffa4382c31c994e
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  Kingfisher: 0d334cada987fcddbe9b5cec516406e1ee9d4748
+  MobilePlayer: e50e2160830f3db51d6e08067318aec6a9d39408
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  Presentr: 7078d7eb5d1661ebeaae60c9e42a1e534de1b993
+  Pulsator: eb5a9f9be4bdcbd19903984c65deca6aabe50a17
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  SRCountdownTimer: 9c92e444b5403c92f01dd6610299b8c634bc8562
+  SwiftLocation: 609ac8859f2c5d48a6cadd2a58c63b1dae02dc25
+  ZLSwipeableViewSwift: 0d4f2061d36e6daee2b3da8977e0906feee0383d
+
+PODFILE CHECKSUM: 35b01b9b0aac6435f08a16b0615d729ae4f64de2
 
 COCOAPODS: 1.8.4
