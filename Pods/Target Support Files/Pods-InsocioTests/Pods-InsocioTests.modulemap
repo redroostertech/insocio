@@ -1,0 +1,6 @@
+framework module Pods_InsocioTests {
+  umbrella header "Pods-InsocioTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
